@@ -1,0 +1,37 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="6">
+            <item index="0" class="java.lang.String" itemvalue="mt-3" />
+            <item index="1" class="java.lang.String" itemvalue="placeholder" />
+            <item index="2" class="java.lang.String" itemvalue="name" />
+            <item index="3" class="java.lang.String" itemvalue="blog" />
+            <item index="4" class="java.lang.String" itemvalue="href" />
+            <item index="5" class="java.lang.String" itemvalue="form-group" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="searchimage.searchimage.views.Image" />
+          <option value="myapp.*" />
+          <option value="searchimage.searchimage.views.Category" />
+          <option value="dict.success" />
+          <option value="django.views.index" />
+          <option value="mac.shop.models.product.objects" />
+          <option value="django.views.home" />
+          <option value="website.website.settings.os" />
+          <option value="website.website.views.contact" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="XmlDuplicatedId" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="XmlInvalidId" enabled="false" level="ERROR" enabled_by_default="false" />
+  </profile>
+</component>
